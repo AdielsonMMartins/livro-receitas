@@ -3,4 +3,5 @@
 Olá! Bem vindo ao nosso livro de receitas c:wave:
 
 - Strogonoff de Frango
+- Pavê
 
